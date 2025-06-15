@@ -158,6 +158,9 @@ public class BaiTap {
         }
         System.out.println("Tong so chan trong day so tu 1 den " + m + " là: " + tongsochan);
 
+        // test github
+        System.out.println("Hello github");
+
         // *** Tính tổng số chẵn thì cho giá tri trong vong lap bat dau = 0 (giá trị thay đổi là: +=2)
         // *** Tính tổng số lẻ thì cho giá tri trong vong lap bat dau = 1 (giá trị thay đổi là: +=2)
         // *** Chia het cho 3 thì cho giá tri trong vong lap bat dau = 3 (giá trị thay đổi là: +=3)
