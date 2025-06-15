@@ -73,5 +73,7 @@ public class baitap2 {
         System.out.println("Diem trung binh 3 mon la: " + diemTB);
         System.out.println(danhGia);
 
+        System.out.println("Test git");
+
     }
 }
